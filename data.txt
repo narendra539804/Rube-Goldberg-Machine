@@ -1,0 +1,11 @@
+Narendra, 19, 2001
+srikar, 24, 1996
+teja, 25, 1995
+saketh, 26, 1994
+sasi, 27, 1993
+jatin, 28, 1992
+durgaprasad, 20, 2000
+jhalak, 21, 1999
+revanth, 22, 1998
+amrit, 23, 1997
+nitish, 29, 1991 
